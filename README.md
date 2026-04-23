@@ -136,5 +136,5 @@ Mã nguồn mở, miễn phí sử dụng cho mục đích học tập và sáng
 **Ngày hoàn thành phiên bản cuối:** 2026
 
 [DEMO]() <br>
-[Trở về trang chủ](https://github.com/roboeinlife-glitch)<img width="1189" height="682" alt="Tap_Hop_Con MoRong (1)" src="https://github.com/user-attachments/assets/1e3db4fd-f554-4934-ad56-2b3692985fea" />
+[Trở về trang chủ](https://github.com/roboeinlife-glitch)
 
