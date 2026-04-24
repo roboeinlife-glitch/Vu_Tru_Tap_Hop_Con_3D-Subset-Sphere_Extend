@@ -135,6 +135,6 @@ Mã nguồn mở, miễn phí sử dụng cho mục đích học tập và sáng
 
 **Ngày hoàn thành phiên bản cuối:** 2026
 
-[DEMO]() <br>
+[DEMO](https://www.youtube.com/watch?v=ZScUIPzxi24) <br>
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
 
